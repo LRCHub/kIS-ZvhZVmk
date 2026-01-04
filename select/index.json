@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Give a reason",
+  "base_artist": "林原めぐみ",
+  "createdAt": "2026-01-04T17:47:21.150416Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Give A Reason (2008)",
+      "artist": "Dokken",
+      "has_synced": true,
+      "path": "select/01_Give_A_Reason_(2008)_Dokken.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Give A Reason",
+      "artist": "Dokken",
+      "has_synced": true,
+      "path": "select/02_Give_A_Reason_Dokken.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Give a reason",
+      "artist": "Megumi Hayashibara",
+      "has_synced": true,
+      "path": "select/03_Give_a_reason_Megumi_Hayashibara.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "BRAVE SOULS 〜give a reason",
+      "artist": "L・O・N",
+      "has_synced": false,
+      "path": "select/04_BRAVE_SOULS_〜give_a_reason_L・O・N.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Brave Souls, Give a Reason",
+      "artist": "L・O・N",
+      "has_synced": false,
+      "path": "select/05_Brave_Souls,_Give_a_Reason_L・O・N.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Give a Reason",
+      "artist": "林原めぐみ",
+      "has_synced": true,
+      "path": "select/06_Give_a_Reason_林原めぐみ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Give a Reason <GIGA MIX VERSION>",
+      "artist": "Megumi Hayashibara",
+      "has_synced": false,
+      "path": "select/07_Give_a_Reason__GIGA_MIX_VERSION_Megumi_Hayashibara.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Give a reason",
+      "artist": "林原めぐみ",
+      "has_synced": true,
+      "path": "select/08_Give_a_reason_林原めぐみ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Give a reason ~Ballade Version~",
+      "artist": "林原めぐみ",
+      "has_synced": true,
+      "path": "select/09_Give_a_reason_~Ballade_Version~_林原めぐみ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Give a reason ~Ballade Version~",
+      "artist": "Hayashibara, Megumi",
+      "has_synced": true,
+      "path": "select/10_Give_a_reason_~Ballade_Version~_Hayashibara,_Megumi.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Give a reason 〜Ballade version〜",
+      "artist": "林原めぐみ",
+      "has_synced": true,
+      "path": "select/11_Give_a_reason_〜Ballade_version〜_林原めぐみ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Give a reason 〜Ballade version〜",
+      "artist": "Hayashibara, Megumi",
+      "has_synced": true,
+      "path": "select/12_Give_a_reason_〜Ballade_version〜_Hayashibara,_Megumi.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Give a reason",
+      "artist": "Hayashibara, Megumi",
+      "has_synced": true,
+      "path": "select/13_Give_a_reason_Hayashibara,_Megumi.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Give a reason",
+      "artist": "林原めぐみ",
+      "has_synced": false,
+      "path": "select/14_Give_a_reason_林原めぐみ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Give a reason",
+      "artist": "林原 めぐみ",
+      "has_synced": false,
+      "path": "select/pl_01_Give_a_reason_林原_めぐみ.txt"
+    }
+  ]
+}
